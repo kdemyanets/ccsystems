@@ -1,4 +1,4 @@
-# Hello, I'm Konstatntin Demyanets Romanovich :wave:
+# Hello, I'm Konstantin Demyanets Romanovich :wave:
 
 Software engineering student and aspiring software entrepreneur with a focus on modular software and clean code.
 
